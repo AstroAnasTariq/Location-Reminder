@@ -1,9 +1,6 @@
 # Location Reminder
 A to-do list app with location reminders that remind the user to do something when the user is at a specific location. The app will require the user to create an account and login to set and access reminders.
 
-## Google Maps API Key Instructions ##
-Clone the project to your local machine. Open the project using Android Studio. This app will only work if you include your Google maps API key in google_maps_api.xml. You will find the placeholder for the API key already there in the file.
-
 ## Features ##
 * Create a Todo backed by selecting a point of interest on the map.
 * Get a notification when you move close to that point of interest.
