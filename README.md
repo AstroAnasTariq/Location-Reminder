@@ -10,9 +10,9 @@ A to-do list app with location reminders that remind the user to do something wh
 * MVVM (repository pattern) + ViewModel + Repository + Data Binding + LiveData
 * Google Maps SDK Android - Display Google Map, click on Point of Interest.
 * Custom Google Map Style
-* Get device location , move camera to current user location.
+* Get the device location, and move the camera to the current user location.
 * Location permissions
-* Geofencing API - Provide contextual renubders when users enter or leave an area of interest.
+* Geofencing API - Provide contextual reminders when users enter or leave an area of interest.
 * Unit Test, Instrumented Test using Mockito and Espresso.
 * Koin - A pragmatic lightweight dependency injection framework for Kotlin.
 * Room Database
